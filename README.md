@@ -39,4 +39,4 @@
 - 🌱 Learning advanced backend architecture and system design  
 - 💬 Ask me about Java, TypeScript, React, or anything DevOps  
 - 🛠 Constantly exploring open-source projects and contribution opportunities  
-- 📫 Reach me at: **rohanchidurala@gmail.com**
+- 📫 Reach me at: **rohanchidurala75@gmail.com**
