@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/rohan-chidurala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Chidurala-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:rohanchidurala@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rohanchidurala@gmail.com-red?style=flat-square&logo=gmail" alt="Gmail" />
-  </a>
 </p>
 
 ---
